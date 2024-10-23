@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bhawanibytesteams@gmail.com**
 
-- ⚡ Fun fact **I am desperate for robust product/system ideas.**
+- ⚡ Fun fact **I am desperate for robust problem-solving product/system ideas.**
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
