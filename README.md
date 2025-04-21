@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Spotify Playing 🎧</h3>
 
 [![Spotify](https://spotify-player-api.vercel.app/api/spotify)](https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde)
-[![Spotify](https://github-readme-streak-stats.herokuapp.com?user=bhawanibytes&theme=radical&hide_border=true)](https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde)
+<!--[![Spotify](https://github-readme-streak-stats.herokuapp.com?user=bhawanibytes&theme=radical&hide_border=true)](https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde) -->
 
 <table>
   <tr>
