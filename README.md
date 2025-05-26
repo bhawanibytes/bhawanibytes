@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
 
-- 📫 How to reach me **bhawanisingh.dev@gmail.com**
+- 📫 How to reach me **bhawanibytes@gmail.com**
 
 - ⚡ Fun fact **love deep space 🪐**
 
