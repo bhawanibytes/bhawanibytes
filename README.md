@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawanibytes&label=Profile%20views&color=0e75b6&style=flat" alt="bhawanibytes" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **everything that crosses my path**
 
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
+- 💬 Ask me about **MERN, Next.js, PostgreSQL**
 
 - 📫 How to reach me **bhawanibytes@gmail.com**
 
