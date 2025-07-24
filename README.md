@@ -49,17 +49,23 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+[![Drizzle](https://img.shields.io/badge/drizzle-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white)](https://orm.drizzle.team/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)<!-- DevOps & Tools -->
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)<!-- Design / API -->
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)<!-- Design & UI Tools -->
 [![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://figma.com)
+[![Font Awesome](https://img.shields.io/badge/Font%20Awesome-1A1A1A?style=for-the-badge&logo=fontawesome&logoColor=white)](https://docs.fontawesome.com/)<!-- API & Testing Tools -->
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Hoppscotch](https://img.shields.io/badge/Hoppscotch-1B1F23?style=for-the-badge&logo=hoppscotch&logoColor=%2359C6A3)](https://hoppscotch.io/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
+[![Hoppscotch](https://img.shields.io/badge/Hoppscotch-1B1F23?style=for-the-badge&logo=hoppscotch&logoColor=%2359C6A3)](https://hoppscotch.io/)<!-- Cloud -->
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)<!-- Communication SDKs -->
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)](https://www.twilio.com/docs)<!-- Validation & Schema -->
+[![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)<!-- Developer Utilities -->
+[![Prettier](https://img.shields.io/badge/Prettier-1A1A1A?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)
+
 
 #
 
