@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 
 [![Prettier](https://img.shields.io/badge/Prettier-1A1A1A?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)<!-- Design & UI Tools -->
 [![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://figma.com)
+
 #
 
 <!-- GitHub Stats -->
@@ -97,6 +98,7 @@ Here are some ideas to get you started:
     <img align="center" height="150em" 
          src="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"  />
 </p>
+
 #
 
 <!-- WakaTime Stats -->
@@ -107,6 +109,7 @@ Here are some ideas to get you started:
          alt="WakaTime Graph" style="width:100%; height:auto;" />
   </a>
 </p>
+
 #
 
 
