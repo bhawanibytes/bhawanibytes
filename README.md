@@ -90,15 +90,6 @@ Here are some ideas to get you started:
 #
 
 <!-- GitHub Stats -->
-<!--<p align="center">
-    <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    <img align="center" height="150em" 
-         src="https://nirzak-streak-stats.vercel.app/?user=bhawanibytes&theme=tokyonight&hide_border=false" />
-    <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"  />
-</p>-->
-<!-- GitHub Stats -->
 <p align="center">
   <picture>
     <source 
@@ -141,14 +132,6 @@ Here are some ideas to get you started:
 #
 
 <!-- WakaTime Stats -->
-<!--<h3>WakaTime Activity</h3>
-<p align="center">
-  <a href="https://wakatime.com/@bhawanibytes">
-    <img src="https://wakatime.com/share/@bhawanibytes/71d912cc-8464-4e85-aee1-0d2cc204eb8f.svg" 
-         alt="WakaTime Graph" style="width:100%; height:auto;" />
-  </a>
-</p>-->
-<!-- WakaTime Stats -->
 <h3 align="center">📊 WakaTime Activity</h3>
 
 <p align="center">
@@ -173,18 +156,10 @@ Here are some ideas to get you started:
 
 #
 
+<!-- Spotify Player -->
+<h3 align="left">🎧 Spotify Playing</h3>
 
-<!-- Spotify Player -->
-<!--<h3>🎧 Spotify Playing</h3>
-<a href="https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde">
-  <img src="https://spotify-player-api.vercel.app/api/spotify" alt="Spotify Playing" />
-</a>-->
-<!-- Spotify Player -->
-<!--<h3 align="center">🎧 Spotify Playing</h3>-->
-<!-- Spotify Player -->
-<h3 align="center">🎧 Spotify Playing</h3>
-
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde">
     <picture>
       <!-- Dark Mode -->
@@ -201,7 +176,8 @@ Here are some ideas to get you started:
       <img
         src="https://spotify-player-api.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117"
         alt="Spotify Now Playing"
-        style="width:100%; height:auto; border-radius:10px;"
+        height="150em"
+        style="border-radius:10px;"
       />
     </picture>
   </a>
