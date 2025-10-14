@@ -70,12 +70,12 @@ Here are some ideas to get you started:
 
 <!-- DevOps & Tools -->
 <!--[![DevOps Tool](https://img.shields.io/badge/-DevOps%20Stuff⇒-000000?style=for-the-badge&logo=&logoColor=white)](#)-->
-**DevOps Stuff**
+**DevOps Tool**
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![PNPM](https://img.shields.io/badge/PNPM-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)<!-- Cloud -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
