@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Bhawani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawanibytes&label=Profile%20views&color=0e75b6&style=flat" alt="bhawanibytes" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=bhawanibytes&label=Profile%20views&color=0e75b6&style=flat" alt="bhawanibytes" /> 
+    <a href="https://wakatime.com/@1ee6ba8a-dd23-4c75-b8fb-c5512f93dbf0">
+        <img src="https://wakatime.com/badge/user/1ee6ba8a-dd23-4c75-b8fb-c5512f93dbf0.svg" alt="bhawanibytes" style="width: auto; height:auto;"  /> 
+    </a>
+</p>
 
 - 🌱 I’m currently learning **everything that crosses my path**
-
 - 💬 Ask me about **MERN, Next.js, PostgreSQL**
-
 - 📫 How to reach me **bhawanibytes@gmail.com**
-
 - ⚡ Fun fact **love deep space 🪐**
-
 #
 
 ### Tech Stack & Tools
@@ -85,7 +86,6 @@ Here are some ideas to get you started:
 
 [![Prettier](https://img.shields.io/badge/Prettier-1A1A1A?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)<!-- Design & UI Tools -->
 [![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://figma.com)
-
 #
 
 <!-- GitHub Stats -->
@@ -95,10 +95,20 @@ Here are some ideas to get you started:
     <img align="center" height="150em" 
          src="https://nirzak-streak-stats.vercel.app/?user=bhawanibytes&theme=tokyonight&hide_border=false" />
     <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+         src="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"  />
 </p>
-
 #
+
+<!-- WakaTime Stats -->
+<h3>WakaTime Activity</h3>
+<p align="center">
+  <a href="https://wakatime.com/@bhawanibytes">
+    <img src="https://wakatime.com/share/@bhawanibytes/71d912cc-8464-4e85-aee1-0d2cc204eb8f.svg" 
+         alt="WakaTime Graph" style="width:100%; height:auto;" />
+  </a>
+</p>
+#
+
 
 <!-- Spotify Player -->
 <h3>🎧 Spotify Playing</h3>
