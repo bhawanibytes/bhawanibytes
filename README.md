@@ -1,16 +1,3 @@
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Bhawani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -30,15 +17,14 @@ Here are some ideas to get you started:
 ### Tech Stack & Tools
 
 <!-- Language -->
-<!--[![Langs](https://img.shields.io/badge/-Langs⇒-000000?style=for-the-badge&logo=&logoColor=white)](#)-->
 **Langs**
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/golang/website/master/_content/images/go-logo-blue.svg" width="auto" height="24"/>](https://go.dev/)
 
 <!-- Frontend --> 
-<!--[![Frontend Technology](https://img.shields.io/badge/-Frontend%20Stuff⇒-000000?style=for-the-badge&logo=&logoColor=white)](#)-->
 **Frontend Stuff**
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -52,7 +38,6 @@ Here are some ideas to get you started:
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-1A1A1A?style=for-the-badge&logo=fontawesome&logoColor=white)](https://docs.fontawesome.com/)
 
 <!-- Backend -->
-<!--[![Backend Technology](https://img.shields.io/badge/-Backend%20Stuff⇒-000000?style=for-the-badge&logo=&logoColor=white)](#)-->
 **Backend Stuff**
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -68,7 +53,6 @@ Here are some ideas to get you started:
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)](https://www.twilio.com/docs)
 
 <!-- DevOps & Tools -->
-<!--[![DevOps Tool](https://img.shields.io/badge/-DevOps%20Stuff⇒-000000?style=for-the-badge&logo=&logoColor=white)](#)-->
 **DevOps Tool**
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -80,7 +64,6 @@ Here are some ideas to get you started:
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 
 <!-- Developer Utilities -->
-<!--[![DevUtils](https://img.shields.io/badge/-Dev%20Utils⇒-000000?style=for-the-badge&logo=&logoColor=white)](#)-->
 **DevUtils**
 
 [![Prettier](https://img.shields.io/badge/Prettier-1A1A1A?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)<!-- Design & UI Tools -->
