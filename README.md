@@ -76,12 +76,12 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+      srcset="https://github-readme-stats-gamma-five-21.vercel.app/api/top-langs/?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanibytes&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+      srcset="https://github-readme-stats-gamma-five-21.vercel.app/api/top-langs/?username=bhawanibytes&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanibytes&theme=tokyonight" 
+         src="https://github-readme-stats-gamma-five-21.vercel.app/api/top-langs/?username=bhawanibytes&theme=tokyonight" 
          alt="Top languages" />
   </picture>
 
@@ -100,12 +100,12 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+      srcset="https://github-readme-stats-gamma-five-21.vercel.app/api?username=bhawanibytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+      srcset="https://github-readme-stats-gamma-five-21.vercel.app/api?username=bhawanibytes&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
     <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api?username=bhawanibytes&theme=tokyonight" 
+         src="https://github-readme-stats-gamma-five-21.vercel.app/api?username=bhawanibytes&theme=tokyonight" 
          alt="GitHub stats" />
   </picture>
 </p>
